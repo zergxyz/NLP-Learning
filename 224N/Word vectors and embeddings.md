@@ -7,6 +7,6 @@ to have some notion of similarity and difference between words. With word vector
 ### Embeddings:
 ---
 2 type of embeddings: 
-* Count based : bag of words, TF-IDF
+* Count based : 1 hot vectors, bag of words, TF-IDF
 * vector representations: word2vec, fasttext and others 
 
