@@ -1,2 +1,2 @@
 # NLP-Learning
-Study notes and code for 224N and 747
+Study notes and code from various NLP courses (224N, 747 etc.) 
